@@ -6,7 +6,8 @@
 // Prof. Joe Hummel
 // Northwestern University
 // CS 211
-// 
+// Bella Fishman
+//
 
 #pragma once
 
